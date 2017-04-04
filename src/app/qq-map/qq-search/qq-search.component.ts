@@ -1,5 +1,4 @@
 import {Component, EventEmitter, OnInit, Output,Input} from '@angular/core';
-import {LatLng} from "../base";
 declare var qq;
 @Component({
   selector: 'app-qq-search',
